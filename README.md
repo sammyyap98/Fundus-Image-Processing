@@ -1,4 +1,4 @@
-# Fundus Image Processing   
+# Fundus Image Processing    
 
 Disease detection in fundus images.            
 
